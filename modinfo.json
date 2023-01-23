@@ -6,14 +6,12 @@
 	"signature": "not yet implemented",
     "download": "https://github.com/ATLASLORD/Plants_CSG_client/archive/refs/heads/main.zip",
 	"build": "116400",
-    "priority": 100,
 	"icon": "https://imgur.com/ASI2c6J.png",
+    "hidden": true,
 	"forum": "https://github.com/ATLASLORD/Plants_CSG",
-    "titansOnly": true,
-    "enabled": true,
 	"context": "client",
-	"date": "2023-01-22",
-	"version": "1.1",
+	"date": "2023-01-23",
+	"version": "1.1.1",
 	"dependencies": [
 		"com.pa.conundrum.cShareSystems",
         "uk.pa.tetctree.server",
@@ -29,6 +27,9 @@
 	]	},  
 	"category":
 	[
-		"CSG Addon"
+		"editor",
+		"maps",
+		"titans",
+		"csg"
 	]
 }
